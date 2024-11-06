@@ -1,10 +1,11 @@
-#FOBPATH
+# FOBPATH
 
 Table of Contents
 1. Overview
 2. Product Spec
 3. Wireframes
-Overview
+   
+## Overview
 
 Description
 An app designed to help Computer Science and Engineering majors find job opportunities tailored to their specific fields. The app features intuitive navigation, a scrollable job feed, saved jobs functionality, and external links to job applications.
@@ -18,17 +19,17 @@ Market: The primary market is CS and Engineering students from colleges and univ
 Habit:Users will likely check the app multiple times daily during job hunts or internship searches. Push notifications for job postings, deadlines, or saved job updates increase engagement.
 Scope:V1 will focus on job listings, job searches, and saved job functionality. V2 could add personalized recommendations, user profiles with portfolios, and job application tracking. V3 could incorporate features like networking opportunities, company reviews, and salary insights.
 
-Product Spec
+## Product Spec
 1.User Features (Required and Optional)
 
 Required Features
 
-1.User can sign up 
-2.User can login
-3.User can search for jobs
-4.User can save jobs
-5.Names of each Job
-6.Application tab
+1. User can sign up 
+2. User can login
+3. User can search for jobs
+4. User can save jobs
+5. Names of each Job
+6. Application tab
 
 Optional Features
 1.
@@ -42,82 +43,82 @@ Optional Features
 > Associated Required Story:
 > The user will be able to create a new account by providing necessary information (email, password, etc.) to access personalized job search features.
 
-User Profile Page
+* User Profile Page
 Associated Required Story:
 The user will be able to view and edit their profile information (resume, skills, work experience, and contact details) to present a complete and updated representation of their qualifications to potential employers.
 
-User Login Page
+* User Login Page
 Associated Required Story:
 The user will be able to log in to their existing account using their credentials to manage job applications and preferences.
  
-User Job Search Page
+* User Job Search Page
 Associated Required Story:
 The user will be able to search for jobs using various filters (location, industry, salary) to find suitable opportunities.
 
-User Saved Jobs Page
+* User Saved Jobs Page
 Associated Required Story:
 The user will be able to save jobs that interest them, allowing easy access to revisit them later.
 
-Job Details Page
+* Job Details Page
 Associated Required Story:
 The user will be able to view detailed information about each job (title, company, description, requirements) to assess whether to apply.
  
-Job Application Page
+* Job Application Page
 Associated Required Story:
 The user will be able to apply for jobs directly through the platform, streamlining their application process.
 
 3. Navigation
 
-Tab Navigation (Tab to Screen)
+**Tab Navigation (Tab to Screen)**
 
-Sign-Up Tab:
+* Sign-Up Tab:
 Navigates to the User Sign-Up Page
 
-Login Tab:
+* Login Tab:
 Navigates to the User Login Page
 
-Job Search Tab:
+* Job Search Tab:
 Navigates to the User Job Search Page
 
-Saved Jobs Tab:
+* Saved Jobs Tab:
 Navigates to the User Saved Jobs Page
 
-Profile Tab:
+* Profile Tab:
 Navigates to the User Profile Page
 
-Flow Navigation (Screen to Screen)
+**Flow Navigation (Screen to Screen)**
 
-User Sign-Up Page
+* User Sign-Up Page
 After signing up, the user can navigate to:
 User Login Page (if they want to log in instead)
 User Profile Page (to set up their profile)
 
-User Login Page
+* User Login Page
 After logging in, the user can navigate to:
 User Job Search Page (to start searching for jobs)
 User Profile Page (to update their profile)
 
-User Job Search Page
+* User Job Search Page
 From here, the user can navigate to:
 Job Details Page (by selecting a job)
 User Saved Jobs Page (to view saved jobs)
 
-User Saved Jobs Page
+* User Saved Jobs Page
 From this page, the user can navigate to:
 Job Details Page (to view details of a saved job)
 User Job Search Page (to continue searching for more jobs)
 
-Job Details Page
+* Job Details Page
 After viewing a job, the user can navigate to:
 User Application Page (to apply for the job)
 User Job Search Page (to return to job listings)
 
-User Profile Page
+* User Profile Page
 From the profile page, the user can navigate to:
 User Job Search Page (to search for jobs)
 User Saved Jobs Page (to check saved jobs)
 
-Wireframes
+## Wireframes
 [Add picture of your hand sketched wireframes in this section] 
 
 
